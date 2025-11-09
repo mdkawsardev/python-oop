@@ -16,4 +16,3 @@ class Account:
 customer1 = Account(10000, 2323)
 customer1.debit(1000)
 customer1.credit(20000)
-customer1.debit(1000)
